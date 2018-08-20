@@ -21,8 +21,8 @@ with git log I can see the entire repository. Git diff allows to compare to comm
 
 How might using version control make you more confident to make changes that could break something?
 
-Si la cago no pasa nada
+There is no problem if i made a mistake
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-take all my codes all put them of git please!
+Take all my codes all put them of git please!

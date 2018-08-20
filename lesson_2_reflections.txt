@@ -8,3 +8,25 @@ Staging area: I'm sure I wanna store these changes
 Working directory: I'm working on that
 
 Separates all the done things to the in progress things
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area is very cool, I can use like a parking zone where I put all my changes and when I'm sure I can make my logical commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+New experimental features, architectural changes, languages changes, collaboration.
+
+How do the diagrams help you visualize the branch structure?
+Graph theory. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It is easier to see in the diagram the commits a the graph. When we merge to branches we have a new bigger project.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros: easy, I decide when I do the merge. 
+
+cons: less control, git can make mistakes.
+
